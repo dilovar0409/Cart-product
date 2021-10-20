@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Cart-product/static/css/main.a28b33eb.chunk.css",
-    "main.js": "/Cart-product/static/js/main.ea1f523e.chunk.js",
-    "main.js.map": "/Cart-product/static/js/main.ea1f523e.chunk.js.map",
+    "main.js": "/Cart-product/static/js/main.57eb5f6f.chunk.js",
+    "main.js.map": "/Cart-product/static/js/main.57eb5f6f.chunk.js.map",
     "runtime-main.js": "/Cart-product/static/js/runtime-main.1f3cc1c6.js",
     "runtime-main.js.map": "/Cart-product/static/js/runtime-main.1f3cc1c6.js.map",
-    "static/js/2.02a8f480.chunk.js": "/Cart-product/static/js/2.02a8f480.chunk.js",
-    "static/js/2.02a8f480.chunk.js.map": "/Cart-product/static/js/2.02a8f480.chunk.js.map",
+    "static/js/2.500f7473.chunk.js": "/Cart-product/static/js/2.500f7473.chunk.js",
+    "static/js/2.500f7473.chunk.js.map": "/Cart-product/static/js/2.500f7473.chunk.js.map",
     "static/js/3.e871c8cd.chunk.js": "/Cart-product/static/js/3.e871c8cd.chunk.js",
     "static/js/3.e871c8cd.chunk.js.map": "/Cart-product/static/js/3.e871c8cd.chunk.js.map",
     "index.html": "/Cart-product/index.html",
     "static/css/main.a28b33eb.chunk.css.map": "/Cart-product/static/css/main.a28b33eb.chunk.css.map",
-    "static/js/2.02a8f480.chunk.js.LICENSE.txt": "/Cart-product/static/js/2.02a8f480.chunk.js.LICENSE.txt",
+    "static/js/2.500f7473.chunk.js.LICENSE.txt": "/Cart-product/static/js/2.500f7473.chunk.js.LICENSE.txt",
     "static/media/airpods.1e2a55d5.jfif": "/Cart-product/static/media/airpods.1e2a55d5.jfif",
     "static/media/alexa-box.cd46810d.jpg": "/Cart-product/static/media/alexa-box.cd46810d.jpg",
     "static/media/apple-watch.2b7322fb.jfif": "/Cart-product/static/media/apple-watch.2b7322fb.jfif",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f3cc1c6.js",
-    "static/js/2.02a8f480.chunk.js",
+    "static/js/2.500f7473.chunk.js",
     "static/css/main.a28b33eb.chunk.css",
-    "static/js/main.ea1f523e.chunk.js"
+    "static/js/main.57eb5f6f.chunk.js"
   ]
 }
