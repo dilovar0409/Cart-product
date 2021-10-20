@@ -29,6 +29,11 @@ export const DashboardWork1Wrapper2 = styled.div `
     border-radius: 15px;
     margin-right: 15px;
     cursor: pointer;
+    &:hover{
+        color: #45A5FF;
+        background-color: white;
+        transition-duration: .5s;
+    }
 `;
 
 export const DashboardWork1Wrapper3 = styled.div `
@@ -44,4 +49,9 @@ export const DashboardWork1Wrapper3 = styled.div `
     margin-right: 15px;
     cursor: pointer;
     border: 1px solid lightslategrey;
+    &:hover{
+        background-color: #45A5FF;
+        color: white;
+        transition-duration: .5s;
+    }
 `;

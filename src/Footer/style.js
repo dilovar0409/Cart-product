@@ -14,7 +14,7 @@ export const FooterTitle = styled.p `
 `;
 
 export const FooterCard = styled.div `
-    border: 1px solid lightgrey;
+    border: 1px solid #E9E9E9;
     width: 190px;
     display: flex;
     padding: 17px;
@@ -22,7 +22,7 @@ export const FooterCard = styled.div `
     font-weight: bold;
     border-radius: 15px;
     cursor: pointer;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
     color: #A0A4A7;
     .footer-icon{
         margin-right: 10px;

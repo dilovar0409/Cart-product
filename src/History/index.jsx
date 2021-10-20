@@ -108,7 +108,6 @@ function History() {
                     </HistoryWrapper2>
                 ))}
             </HistoryWrappers>
-
         </HistoryWrapper>
     )
 }

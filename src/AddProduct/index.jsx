@@ -24,10 +24,10 @@ function AddProduct() {
                         <div><img src={AddProductImg} alt="#" /></div>
                         <div>
                             <p>Drop or Select file</p>
-                            <small>Drop files here or click <a href="#"> browse</a>thorough your machine</small>
+                            <small>Drop files here or click<input className="input" type="file"/>thorough your machine</small>
                         </div>
+                        
                     </AddProductFayl>
-                    <input type="file"/>
                 </AddProductDiv1>
                 <AddProductDiv2>
                     <AddProductWrapper1>

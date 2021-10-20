@@ -13,6 +13,7 @@ function LoginForm({ Login, error }) {
     }
 
     return (
+        <div style={{height:"625px",backgroundColor:"grey", paddingTop:"100px"}}>
         <CodeWrapper>
             <form onSubmit={onSubmit}>
                 <div className="form-inner">
@@ -24,10 +25,11 @@ function LoginForm({ Login, error }) {
                     <div className="form-group">
                         <input type="password" name="password" id="password" placeholder="Password:" required onChange={e => setDetails({ ...details, password: e.target.value })} value={details.password} />
                     </div>
-                    <input type="submit" className="input" value="LOGIN" />
+                    <input type="submit" className="input" value="INTRODUCTION" />
                 </div>
             </form>
         </CodeWrapper>
+        </div>
     )
 }
 

@@ -119,7 +119,7 @@ function Orders() {
                 </OrderWork1>
             </OrderWork>
             <OrderWork2>
-                <p className="all-orders">All orders</p>
+                <p className="all-orders">All product</p>
                 <p>Completed</p>
                 <p>Panding</p>
                 <p>Cancel</p>
@@ -165,7 +165,8 @@ function Orders() {
                         <p>{price}</p>
                     </OrderWorkCards1>
                     <OrderWorkCards1 style={{ width: "20%" }}>
-                        <div className="card-icon"><i class="fas fa-shopping-cart"></i></div>
+                        <div className="card-icon2"><i class="fas fa-user-edit"></i></div>
+                        <div className="card-icon1"><i class="fas fa-trash-alt"></i></div>
                     </OrderWorkCards1>
 
                 </OrderWorkCards>

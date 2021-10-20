@@ -91,6 +91,11 @@ export const AddProductFayl = styled.div `
         height: auto;
         border-radius: 20px;
     }
+    .input{
+        width: 88px;
+        height: 20px;
+        border-bottom: 2px solid blue;
+    }
 `;
 
 export const AddProductDiv2 = styled.div `
@@ -105,6 +110,11 @@ export const AddProductDiv2 = styled.div `
         font-size: 14px;
         font-weight: bold;
         cursor: pointer;
+        &:hover{
+            background-color: white;
+            color: #4CA85E;
+            transition-duration: .3s;
+        }
     }
 `;
 

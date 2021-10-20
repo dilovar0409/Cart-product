@@ -26,20 +26,20 @@ function Footer() {
             </Link>
             <Link to="/history" style={{ textDecoration: "none" }}>
                 <FooterCard>
-                    <div className="footer-icon"><i class="fas fa-user-friends"></i></div>
+                    <div className="footer-icon"><i class="fas fa-history"></i></div>
                     <p>History</p>
                 </FooterCard>
             </Link>
             <Link to="/cart" style={{ textDecoration: "none" }}>
                 <FooterCard>
-                    <div className="footer-icon"><i class="fas fa-envelope"></i></div>
-                    <p>Message</p>
+                    <div className="footer-icon"><i class="fas fa-cart-plus"></i></div>
+                    <p>Cart</p>
                 </FooterCard>
             </Link>
             <Link to="/add-product" style={{ textDecoration: "none" }}>
                 <FooterCard>
-                    <div className="footer-icon"><i class="fas fa-cog"></i></div>
-                    <p>Settings</p>
+                    <div className="footer-icon"><i class="fas fa-chart-line"></i></div>
+                    <p>Add Product</p>
                 </FooterCard>
             </Link>
         </FooterWrapper>

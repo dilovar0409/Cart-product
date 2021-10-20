@@ -7,7 +7,7 @@ export class ApexChart extends React.Component {
 
         this.state = {
 
-            series: [44, 55, 41, 9, 15],
+            series: [70, 20, 10],
             options: {
                 chart: {
                     width: 380,

@@ -95,6 +95,28 @@ export const OrderWorkCards1 = styled.div `
             transition-duration: .5s;
         }
     }
+    .card-icon2{
+        font-size: 15px;
+        color: red;
+        background-color: #5CECA4;
+        border-radius: 50%;
+        padding: 10px;
+        cursor: pointer;
+        &:hover{
+            background-color: #DBF4FE;
+            color: #45A5FF;
+            transition-duration: .5s;
+        }
+    }
+    .card-icon1{
+        font-size: 15px;
+        background-color: red;
+        color: white;
+        border-radius: 50%;
+        padding: 10px 12px;
+        cursor: pointer;
+        margin-left: 8px;
+    }
 `;
 
 export const OrderWorks=styled.div`
